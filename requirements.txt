@@ -9,3 +9,4 @@ vk-api
 yandex_music
 youtube-search-python
 yt-dlp
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
